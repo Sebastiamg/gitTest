@@ -1,0 +1,1 @@
+let another: string = "hola como estas";
